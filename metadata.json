@@ -1,0 +1,6 @@
+{
+  "name": "Vacation Hub",
+  "description": "Location-based leisure discovery and mapping app for vacationers arriving in new destinations.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
